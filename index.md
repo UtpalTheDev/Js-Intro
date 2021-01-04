@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/UtpalTheDev/Js-Intro/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![charles-deluvio-pjAH2Ax4uWk-unsplash.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1609707588069/Y2OTr9mG_.jpeg)
+# Introduction
+#### What is JavaScript?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+JavaScript is the world's most popular language like other languages c,c++.
 
-### Markdown
+#### What is programming language?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Before going to programming language you should aware about program,
+program can be many things. It can be a text written by programmer, it can be a direct instruction to the computer about what to do or it can be a data present in memory.
 
-```markdown
-Syntax highlighted code block
+- A programming language is a formal language contain with a set of instructions in a language the computer understands. It is the way of communication with the computer.
 
-# Header 1
-## Header 2
-### Header 3
+### JavaScript Story
 
-- Bulleted
-- List
+Js(JavaScript) was introduced in 1995 by the **Netscape Navigator browser**. After that other graphical browsers are also start adopting Js. It had open the door for making the application directly interactive without even reload the page.
 
-1. Numbered
-2. List
+> NOTE:- JavaScript has no relation with the Java programming language. 
 
-**Bold** and _Italic_ and `Code` text
+#### Then why it is called JavaScript?
 
-[Link](url) and ![Image](src)
-```
+Its just because of marketing consideration. When JavaScript came that time the Java language was popular so they thought to named it as JavaScript.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### What about JavaScript standardization?
 
-### Jekyll Themes
+After JavaScript adopted by the other browsers outside the Netscape there was a need of standard documentation that describe how JavaScript language should work. The Ecma International organization released **ECMAScript**  standard for JavaScript.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/UtpalTheDev/Js-Intro/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Supporting Platforms
 
-### Support or Contact
+Now web browsers are not the only platform on which JavaScript is used. It can be used in database like MongoDB and CouchDB use it for their scripting and query language. It also used in different platforms and server programming, NodeJs provided the environment to run JavaScript outside of the browser.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+
+    
